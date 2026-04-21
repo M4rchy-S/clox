@@ -1,5 +1,5 @@
 ﻿# C Lox Language
-Stack-based Virtual Machine Interpreter
+Byte-code Virtual Machine Interpreter
 
 ## Lox Code Example
 loop.lox
